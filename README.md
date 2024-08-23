@@ -2,6 +2,6 @@
 - 👀 I’m interested in applying my aquired knowledge
   to build my own personal projects!!
    
-- 🌱 I’m currently learning C, Python, JS/Typescript
+- 🌱 I’m currently learning C, Python, JS/Typescript as a student at UNSW
 
 - ⚡ Fun fact: The corporate ladder is a real ladder so I boulder and hit back at the gym 👍
