@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pierre!
-- 👀 I’m interested in applying my aquired knowledge
+- 👀 I’m interested in applying my aquired knowledge from university and online
   to build my own personal projects!!
    
-- 🌱 I’m currently learning C, Python, JS/Typescript as a student at UNSW
+- 🌱 I’m currently learning C, Python, JS/Typescript and SQL as a student at UNSW
 
-- ⚡ Fun fact: The corporate ladder is a real ladder so I boulder and hit back at the gym 👍
+- thank you for visiting 👍
