@@ -4,6 +4,6 @@
    
 - 🌱 I’m currently learning C, Python, JS/Typescript React and SQL as a student at UNSW
 
-- I am interning at Edflow as a Sowftware Engineer Intern
+- 👨🏻‍🏫 I am interning at Edflow as a Sowftware Engineer Intern
 
 - thank you for visiting 👍
