@@ -26,7 +26,7 @@ Below are the languages, frameworks, and databases I work with:
 </p>
 
 <p align="center">
-  ![Top language](https://img.shields.io/github/languages/top/Nguyen-PIE/Nguyen-PIE?style=for-the-badge)
+  <img src="https://img.shields.io/github/languages/top/Nguyen-PIE/Nguyen-PIE?style=for-the-badge" alt="Top language" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen-PIE&theme=tokyonight" alt="GitHub Streak" />
 </p>
