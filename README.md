@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pierre!
 
-I am a passionate student at **UNSW** and the foundational **Software Developer for Bright Learning Lab**. I love taking the theoretical knowledge I acquire from university and online resources and[...]
+I am a passionate student at **UNSW** and the foundational **Software Developer for Bright Learning Lab**. I love taking the theoretical knowledge I acquire from university and online resources and applying it to build accessible educational tools, tutoring platforms, and open-source projects.
 
 ---
 
@@ -26,6 +26,8 @@ Below are the languages, frameworks, and databases I work with:
 </p>
 
 <p align="center">
+  ![Top language](https://img.shields.io/github/languages/top/Nguyen-PIE/Nguyen-PIE?style=for-the-badge)
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen-PIE&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
