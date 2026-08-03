@@ -28,6 +28,12 @@ Below are the languages, frameworks, and databases I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=Nguyen-PIE&show_icons=true&theme=tokyonight&count_private=true" alt="Pierre's GitHub Stats" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-PIE&layout=compact&theme=tokyonight" alt="Pierre's Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen-PIE&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 🤝 Connect with Me
