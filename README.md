@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pierre!
 
-I am a passionate student at **UNSW** and the foundational **Software Developer for Bright Learning Lab**. I love taking the theoretical knowledge I acquire from university and online resources and[...]
+I am a passionate student at **UNSW** and the foundational **Software Developer for Bright Learning Lab**. I love taking the theoretical knowledge I acquire from university and online resources and using it to create practical projects that help learners and educators, such as education platforms, developer tools, and open-source contributions.
 
 ---
 
@@ -38,8 +38,10 @@ Below are the languages, frameworks, and databases I work with:
 
 ### 🤝 Connect with Me
 
-Let's chat about software engineering, education platforms, or open-source collaboration!
+Let's chat about software engineering, education platforms, open-source collaboration, Claude (LLM) code and integrations, or anything related to building tools for learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-nguyen-040631l/)
 
 Thank you for visiting! 👍
+
+P.S. A silly programmer joke: Why do programmers prefer dark mode? Because light attracts bugs. 🐛
